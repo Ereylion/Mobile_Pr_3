@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Пр_3</string>
+    <string name="button">Открыть</string>
+    <string name="button_2">Нажать</string>
+    <string name="name_1">ФИО</string>
+    <string name="name_2">Номер группы</string>
+    <string name="name_3">Возраст</string>
+    <string name="name_4">Оценка</string>
+    <string name="back">Назад</string>
+</resources>
